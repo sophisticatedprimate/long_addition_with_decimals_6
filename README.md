@@ -1,5 +1,5 @@
 # Worksheet: Long Addition with Decimals 6
-21 long addition exercises. Sum two addends, each 1 to 6 digits long with decimal places. This module also includes a python program (long_addition_with_decimals_6.py) which demonstrates solving each problem using python. This not only demonstrates how to use a software programming language to do addition but checks the correctness of each of the answers given. Refer to the comment section of the python program for more information.
+21 long addition exercises. Sum two addends, each 6 to 10 digits long with decimal places. This module also includes a python program (long_addition_with_decimals_6.py) which demonstrates solving each problem using python. This not only demonstrates how to use a software programming language to do addition but checks the correctness of each of the answers given. Refer to the comment section of the python program for more information.
 
 ## Printout of the Python program
 7911.8113  + 507.9055   = 8419.71680 \
